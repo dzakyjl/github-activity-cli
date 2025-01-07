@@ -21,7 +21,7 @@ Enter your GitHub username as a parameter when you launch the CLI tool:
 ```
 python github_activity.py <username>
 ```
-You can substitute your GitHub username for <username>, like this:
+You can substitute your GitHub username in [username], like this:
 ```
 python github_activity.py dzakyjl
 ```
