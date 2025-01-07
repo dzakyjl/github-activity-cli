@@ -25,5 +25,4 @@ You can substitute your GitHub username for <username>, like this:
 ```
 python github_activity.py dzakyjl
 ```
-py list in-progress
-```
+
